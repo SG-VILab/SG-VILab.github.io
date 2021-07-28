@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Domain Adaptive Video Segmentation via Temporal Consistency Regularization</title>
+      <link>https://sg-vilab.github.io/publication/guan2021domain/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/guan2021domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross-view regularization for domain adaptive panoptic segmentation</title>
       <link>https://sg-vilab.github.io/publication/huang2021cross/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -61,6 +69,22 @@
       <link>https://sg-vilab.github.io/publication/zhang2021self/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/zhang2021self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection</title>
+      <link>https://sg-vilab.github.io/publication/guan2021uncertainty/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/guan2021uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale variance minimization for unsupervised domain adaptation in image segmentation</title>
+      <link>https://sg-vilab.github.io/publication/guan2021scale/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/guan2021scale/</guid>
       <description></description>
     </item>
     
@@ -155,14 +179,6 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scale variance minimization for unsupervised domain adaptation in image segmentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Scale variance minimization for unsupervised domain adaptation in image segmentation</title>
-      <link>https://sg-vilab.github.io/publication/guan2021scale/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://sg-vilab.github.io/publication/guan2021scale/</guid>
-      <description></description>
     </item>
     
     <item>

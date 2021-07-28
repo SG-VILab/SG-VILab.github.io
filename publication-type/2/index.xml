@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection</title>
+      <link>https://sg-vilab.github.io/publication/guan2021uncertainty/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/guan2021uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale variance minimization for unsupervised domain adaptation in image segmentation</title>
+      <link>https://sg-vilab.github.io/publication/guan2021scale/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/guan2021scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual Navigation With Multiple Goals Based on Deep Reinforcement Learning</title>
       <link>https://sg-vilab.github.io/publication/rao2021visual/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
@@ -41,14 +57,6 @@
       <link>https://sg-vilab.github.io/publication/xiao2021fps/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/xiao2021fps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scale variance minimization for unsupervised domain adaptation in image segmentation</title>
-      <link>https://sg-vilab.github.io/publication/guan2021scale/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://sg-vilab.github.io/publication/guan2021scale/</guid>
       <description></description>
     </item>
     
