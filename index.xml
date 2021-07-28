@@ -73,6 +73,17 @@
     </item>
     
     <item>
+      <title>Two Papers Accepted by TMM 2021</title>
+      <link>https://sg-vilab.github.io/post/tmm2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/post/tmm2021/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/zhang2021self/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021uncertainty/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Uncertainty-aware unsupervised domain adaptation in object detection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection</title>
       <link>https://sg-vilab.github.io/publication/guan2021uncertainty/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
@@ -81,21 +92,21 @@
     </item>
     
     <item>
+      <title>One Paper Accepted by Pattern Recognition 2021</title>
+      <link>https://sg-vilab.github.io/post/pr2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/post/pr2021/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scale variance minimization for unsupervised domain adaptation in image segmentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Scale variance minimization for unsupervised domain adaptation in image segmentation</title>
       <link>https://sg-vilab.github.io/publication/guan2021scale/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/guan2021scale/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>One Paper Accepted by TMM 2021</title>
-      <link>https://sg-vilab.github.io/post/tmm2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sg-vilab.github.io/post/tmm2021/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/zhang2021self/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -168,16 +179,6 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/jia2021matching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matching on Sets: Conquer Occluded Person Re-identification Without Alignment&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/zhan2020emlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMLight: Lighting Estimation via Spherical Distribution Approximation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>One Paper Accepted by Pattern Recognition 2020</title>
-      <link>https://sg-vilab.github.io/post/pr2020/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://sg-vilab.github.io/post/pr2020/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021scale/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scale variance minimization for unsupervised domain adaptation in image segmentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
