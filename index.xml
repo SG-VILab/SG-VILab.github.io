@@ -29,6 +29,17 @@
     </item>
     
     <item>
+      <title>Six Papers Accepted by ICCV 2021</title>
+      <link>https://sg-vilab.github.io/post/iccv2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/post/iccv2021/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021domain/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Domain Adaptive Video Segmentation via Temporal Consistency Regularization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coming soon&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Cross-view regularization for domain adaptive panoptic segmentation</title>
       <link>https://sg-vilab.github.io/publication/huang2021cross/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
