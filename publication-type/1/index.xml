@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Diverse Image Inpainting with Bidirectional and Autoregressive Transformers</title>
+      <link>https://sg-vilab.github.io/publication/yu2021diverse/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yu2021diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Domain Adaptive Video Segmentation via Temporal Consistency Regularization</title>
       <link>https://sg-vilab.github.io/publication/guan2021domain/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/guan2021domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Needlets for Lighting Estimation with Spherical Transport Loss</title>
+      <link>https://sg-vilab.github.io/publication/zhan2021sparse/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2021sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WaveFill: A Wavelet-based Generation Network for Image Inpainting</title>
+      <link>https://sg-vilab.github.io/publication/yu2021wavefill/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yu2021wavefill/</guid>
       <description></description>
     </item>
     

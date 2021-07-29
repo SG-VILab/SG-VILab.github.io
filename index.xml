@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Diverse Image Inpainting with Bidirectional and Autoregressive Transformers</title>
+      <link>https://sg-vilab.github.io/publication/yu2021diverse/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yu2021diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Domain Adaptive Video Segmentation via Temporal Consistency Regularization</title>
       <link>https://sg-vilab.github.io/publication/guan2021domain/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -34,9 +42,38 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/post/iccv2021/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021domain/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Domain Adaptive Video Segmentation via Temporal Consistency Regularization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/yu2021wavefill/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WaveFill: A Wavelet-based Generation Network for Image Inpainting&lt;/a&gt; &lt;font color=&#34;##dd0000&#34;&gt;[&lt;em&gt;oral&lt;/em&gt;]&lt;/font&gt;  &lt;br&gt;
+*&lt;a href=&#34;https://sg-vilab.github.io/publication/zhan2021sparse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparse Needlets for Lighting Estimation with Spherical Transport Loss&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021domain/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Domain Adaptive Video Segmentation via Temporal Consistency Regularization&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
 &lt;li&gt;Coming soon&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sparse Needlets for Lighting Estimation with Spherical Transport Loss</title>
+      <link>https://sg-vilab.github.io/publication/zhan2021sparse/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2021sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Papers Accepted by ACM MM 2021</title>
+      <link>https://sg-vilab.github.io/post/acmmm2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/post/acmmm2021/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/yu2021diverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diverse Image Inpainting with Bidirectional and Autoregressive Transformers&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Coming Soon&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>WaveFill: A Wavelet-based Generation Network for Image Inpainting</title>
+      <link>https://sg-vilab.github.io/publication/yu2021wavefill/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yu2021wavefill/</guid>
+      <description></description>
     </item>
     
     <item>
