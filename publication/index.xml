@@ -5,12 +5,28 @@
     <link>https://sg-vilab.github.io/publication/</link>
       <atom:link href="https://sg-vilab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sg-vilab.github.io/media/icon_hu8f541cf365dc5e87274f84a6695d9263_15431_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://sg-vilab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning</title>
+      <link>https://sg-vilab.github.io/publication/yang2021skeleton/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yang2021skeleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised domain adaptive 3d detection with multi-level consistency</title>
+      <link>https://sg-vilab.github.io/publication/luo2021unsupervised/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/luo2021unsupervised/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diverse Image Inpainting with Bidirectional and Autoregressive Transformers</title>
@@ -29,6 +45,14 @@
     </item>
     
     <item>
+      <title>Dual Learning Music Composition and Dance Choreography</title>
+      <link>https://sg-vilab.github.io/publication/wu2021dual/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wu2021dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sparse Needlets for Lighting Estimation with Spherical Transport Loss</title>
       <link>https://sg-vilab.github.io/publication/zhan2021sparse/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -41,6 +65,14 @@
       <link>https://sg-vilab.github.io/publication/yu2021wavefill/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/yu2021wavefill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDA: Robust Domain Adaptation via Fourier Adversarial Attacking</title>
+      <link>https://sg-vilab.github.io/publication/huang2021rda/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2021rda/</guid>
       <description></description>
     </item>
     

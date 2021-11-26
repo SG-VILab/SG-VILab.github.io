@@ -5,7 +5,7 @@
     <link>https://sg-vilab.github.io/</link>
       <atom:link href="https://sg-vilab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual Intelligence Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jul 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sg-vilab.github.io/media/icon_hu8f541cf365dc5e87274f84a6695d9263_15431_512x512_fill_lanczos_center_3.png</url>
       <title>Visual Intelligence Lab</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning</title>
+      <link>https://sg-vilab.github.io/publication/yang2021skeleton/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yang2021skeleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SynLiDAR dataset: Learning From Synthetic LiDAR Sequential Point Cloud</title>
       <link>https://sg-vilab.github.io/event/example/</link>
       <pubDate>Sat, 24 Jul 2021 15:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/event/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised domain adaptive 3d detection with multi-level consistency</title>
+      <link>https://sg-vilab.github.io/publication/luo2021unsupervised/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/luo2021unsupervised/</guid>
       <description></description>
     </item>
     
@@ -37,6 +53,14 @@
     </item>
     
     <item>
+      <title>Dual Learning Music Composition and Dance Choreography</title>
+      <link>https://sg-vilab.github.io/publication/wu2021dual/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wu2021dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Six Papers Accepted by ICCV 2021</title>
       <link>https://sg-vilab.github.io/post/iccv2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -45,7 +69,9 @@
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/yu2021wavefill/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WaveFill: A Wavelet-based Generation Network for Image Inpainting&lt;/a&gt; &lt;font color=&#34;##dd0000&#34;&gt;[&lt;em&gt;oral&lt;/em&gt;]&lt;/font&gt;  &lt;br&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/zhan2021sparse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparse Needlets for Lighting Estimation with Spherical Transport Loss&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/guan2021domain/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Domain Adaptive Video Segmentation via Temporal Consistency Regularization&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Coming soon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/huang2021rda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RDA: Robust Domain Adaptation via Fourier Adversarial Attacking&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/luo2021unsupervised/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised domain adaptive 3d detection with multi-level consistency&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/yang2021skeleton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skeleton cloud colorization for unsupervised 3d action representation learning&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -64,7 +90,7 @@
       <guid>https://sg-vilab.github.io/post/acmmm2021/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/yu2021diverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diverse Image Inpainting with Bidirectional and Autoregressive Transformers&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Coming Soon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sg-vilab.github.io/publication/wu2021dual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dual Learning Music Composition and Dance Choreography&lt;/a&gt; &lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -73,6 +99,14 @@
       <link>https://sg-vilab.github.io/publication/yu2021wavefill/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/yu2021wavefill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDA: Robust Domain Adaptation via Fourier Adversarial Attacking</title>
+      <link>https://sg-vilab.github.io/publication/huang2021rda/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2021rda/</guid>
       <description></description>
     </item>
     

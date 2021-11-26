@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sg-vilab.github.io/publication-type/1/</loc>
+    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sg-vilab.github.io/publication_types/</loc>
+    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sg-vilab.github.io/publication/</loc>
+    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sg-vilab.github.io/publication/yang2021skeleton/</loc>
+    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sg-vilab.github.io/</loc>
+    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sg-vilab.github.io/event/</loc>
     <lastmod>2021-07-24T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sg-vilab.github.io/event/example/</loc>
     <lastmod>2021-07-24T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sg-vilab.github.io/</loc>
-    <lastmod>2021-07-24T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sg-vilab.github.io/publication-type/1/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>https://sg-vilab.github.io/publication/luo2021unsupervised/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sg-vilab.github.io/publication/yu2021diverse/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
@@ -20,13 +32,10 @@
     <loc>https://sg-vilab.github.io/publication/guan2021domain/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sg-vilab.github.io/publication/wu2021dual/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sg-vilab.github.io/post/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sg-vilab.github.io/publication_types/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sg-vilab.github.io/publication/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sg-vilab.github.io/post/iccv2021/</loc>
@@ -40,6 +49,9 @@
   </url><url>
     <loc>https://sg-vilab.github.io/publication/yu2021wavefill/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sg-vilab.github.io/publication/huang2021rda/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sg-vilab.github.io/publication/huang2021cross/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
