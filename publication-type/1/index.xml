@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Visual Intelligence Lab</title>
+    <link>https://sg-vilab.github.io/publication-type/1/</link>
+      <atom:link href="https://sg-vilab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sg-vilab.github.io/media/icon_hu8f541cf365dc5e87274f84a6695d9263_15431_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://sg-vilab.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>GenCo: Generative Co-training on Data-Limited Image Generation</title>
+      <link>https://sg-vilab.github.io/publication/cui2021genco/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/cui2021genco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation</title>
+      <link>https://sg-vilab.github.io/publication/xiao2021synlidar/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/xiao2021synlidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model adaptation: Historical contrastive learning for unsupervised domain adaptation without source data</title>
+      <link>https://sg-vilab.github.io/publication/huang2021model/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2021model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning</title>
+      <link>https://sg-vilab.github.io/publication/yang2021skeleton/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yang2021skeleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised domain adaptive 3d detection with multi-level consistency</title>
+      <link>https://sg-vilab.github.io/publication/luo2021unsupervised/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/luo2021unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse Image Inpainting with Bidirectional and Autoregressive Transformers</title>
+      <link>https://sg-vilab.github.io/publication/yu2021diverse/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yu2021diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptive Video Segmentation via Temporal Consistency Regularization</title>
+      <link>https://sg-vilab.github.io/publication/guan2021domain/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/guan2021domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Learning Music Composition and Dance Choreography</title>
+      <link>https://sg-vilab.github.io/publication/wu2021dual/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wu2021dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Needlets for Lighting Estimation with Spherical Transport Loss</title>
+      <link>https://sg-vilab.github.io/publication/zhan2021sparse/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2021sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WaveFill: A Wavelet-based Generation Network for Image Inpainting</title>
+      <link>https://sg-vilab.github.io/publication/yu2021wavefill/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yu2021wavefill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDA: Robust Domain Adaptation via Fourier Adversarial Attacking</title>
+      <link>https://sg-vilab.github.io/publication/huang2021rda/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2021rda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-view regularization for domain adaptive panoptic segmentation</title>
+      <link>https://sg-vilab.github.io/publication/huang2021cross/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2021cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSDR: Frequency Space Domain Randomization for Domain Generalization</title>
+      <link>https://sg-vilab.github.io/publication/huang2021fsdr/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2021fsdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unbalanced Feature Transport for Exemplar-based Image Translation</title>
+      <link>https://sg-vilab.github.io/publication/zhan2021unbalanced/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2021unbalanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMLight: Lighting Estimation via Spherical Distribution Approximation</title>
+      <link>https://sg-vilab.github.io/publication/zhan2020emlight/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2020emlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching on Sets: Conquer Occluded Person Re-identification Without Alignment</title>
+      <link>https://sg-vilab.github.io/publication/jia2021matching/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/jia2021matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification</title>
+      <link>https://sg-vilab.github.io/publication/jia2020similarity/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/jia2020similarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMLN: Adversarial-based Mutual Learning Network for Online Knowledge Distillation</title>
+      <link>https://sg-vilab.github.io/publication/zhang2020amln/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhang2020amln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis</title>
+      <link>https://sg-vilab.github.io/publication/yang2020collaborative/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/yang2020collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation</title>
+      <link>https://sg-vilab.github.io/publication/huang2020contextual/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/huang2020contextual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LEED: Label-Free Expression Editing via Disentanglement</title>
+      <link>https://sg-vilab.github.io/publication/wu2020leed/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wu2020leed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Expert Brainstorming for Domain Adaptive Person Re-identification</title>
+      <link>https://sg-vilab.github.io/publication/zhai2020multiple/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhai2020multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-identification</title>
+      <link>https://sg-vilab.github.io/publication/zhai2020ad/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhai2020ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses</title>
+      <link>https://sg-vilab.github.io/publication/wu2020cascade/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wu2020cascade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppressing Uncertainties for Large-Scale Facial Expression Recognition</title>
+      <link>https://sg-vilab.github.io/publication/wang2020suppressing/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wang2020suppressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Task Cooperation in Multi-goal Visual Navigation</title>
+      <link>https://sg-vilab.github.io/publication/wu2019exploring/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/wu2019exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition</title>
+      <link>https://sg-vilab.github.io/publication/zhan2019ga/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2019ga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSR: Multi-Scale Shape Regression for Scene Text Detection</title>
+      <link>https://sg-vilab.github.io/publication/xue2019msr/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/xue2019msr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification</title>
+      <link>https://sg-vilab.github.io/publication/zhan2019esir/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2019esir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Fusion GAN for Image Synthesis</title>
+      <link>https://sg-vilab.github.io/publication/zhan2019spatial/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2019spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Natural and Accurate Future Motion Prediction of Humans and Animals</title>
+      <link>https://sg-vilab.github.io/publication/liu2019towards/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/liu2019towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping</title>
+      <link>https://sg-vilab.github.io/publication/xue2018accurate/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/xue2018accurate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes</title>
+      <link>https://sg-vilab.github.io/publication/zhan2018verisimilar/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/zhan2018verisimilar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
