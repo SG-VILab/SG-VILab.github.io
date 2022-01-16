@@ -12,6 +12,31 @@
       <link>https://sg-vilab.github.io/publication/</link>
     </image>
     
+
+    <item>
+      <title>Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction</title>
+      <link>https://sg-vilab.github.io/publication/liu2022investigating/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/liu2022investigating/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Detection and Rectification of Arbitrary Shaped Scene Texts by using Text Keypoints and Links</title>
+      <link>https://sg-vilab.github.io/publication/xue2021detection/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/xue2021detection/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification</title>
+      <link>https://sg-vilab.github.io/publication/jia2022learning/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sg-vilab.github.io/publication/jia2022learning/</guid>
+      <description></description>
+    </item>
+
     <item>
       <title>GenCo: Generative Co-training on Data-Limited Image Generation</title>
       <link>https://sg-vilab.github.io/publication/cui2021genco/</link>
@@ -21,7 +46,7 @@
     </item>
     
     <item>
-      <title>Transfer Learning from Synthetic to Real LiDAR Point Cloud for Semantic Segmentationn</title>
+      <title>SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation</title>
       <link>https://sg-vilab.github.io/publication/xiao2021synlidar/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://sg-vilab.github.io/publication/xiao2021synlidar/</guid>
