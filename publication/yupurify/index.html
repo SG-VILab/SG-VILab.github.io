@@ -664,7 +664,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Purify Perturbative Availability Poisons via Rate-Constrained Variational Autoencoders</h1>
+  <h1>Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders</h1>
 
   
 
@@ -685,7 +685,6 @@
       Yi Yu</span>, <span >
       Yufei Wang</span>, <span >
       Song Xia</span>, <span >
-      Qichen Zheng</span>, <span >
       Wenhan Yang</span>, <span >
       Shijian Lu</span>, <span >
       Yap-peng Tan</span>, <span >
@@ -787,7 +786,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Perturbative availability poisoning attacks seek to maximize testing error by making subtle modifications to training examples that are correctly labeled. Defensive strategies against these attacks can be categorized based on whether specific interventions are adopted during the training phase. The first approach is training-time defense, such as adversarial training, which can effectively mitigate poisoning effects but is computationally intensive. The other approach is pre-training purification, *e.g.,* image short squeezing, which consists of several simple compressions but often encounters challenges in dealing with various poison types. Our work provides a novel disentanglement mechanism to build an efficient pre-training purification method that achieves superior performance to all existing defenses. Firstly, we uncover rate-constrained variational autoencoders (VAEs), demonstrating a clear tendency to suppress poison patterns by minimizing mutual information in the latent space. We subsequently conduct a theoretical analysis to offer an explanation for this phenomenon. Building upon these insights, we introduce a disentangle variational autoencoder (D-VAE), capable of disentangling the added perturbations with learnable class-wise embeddings. Based on this network, a two-stage purification approach is naturally developed. The first stage focuses on roughly suppressing poison patterns, while the second stage produces refined, poison-free results, ensuring the effectiveness and robustness across various scenarios and datasets. Extensive experiments demonstrate the remarkable performance of our method across CIFAR-10, CIFAR-100, and a 100-class ImageNet-subset with multiple poison types and different perturbation levels.</p>
+    <p class="pub-abstract">Unlearnable examples (UEs) seek to maximize testing error by making subtle modifications to training examples that are correctly labeled. Defenses against these poisoning attacks can be categorized based on whether specific interventions are adopted during training. The first approach is training-time defense, such as adversarial training, which can mitigate poisoning effects but is computationally intensive. The other approach is pre-training purification, e.g., image short squeezing, which consists of several simple compressions but often encounters challenges in dealing with various UEs. Our work provides a novel disentanglement mechanism to build an efficient pre-training purification method. Firstly, we uncover rate-constrained variational autoencoders (VAEs), demonstrating a clear tendency to suppress the perturbations in UEs. We subsequently conduct a theoretical analysis for this phenomenon. Building upon these insights, we introduce a disentangle variational autoencoder (D-VAE), capable of disentangling the perturbations with learnable class-wise embeddings. Based on this network, a two-stage purification approach is naturally developed. The first stage focuses on roughly eliminating perturbations, while the second stage produces refined, poison-free results, ensuring effectiveness and robustness across various scenarios. Extensive experiments demonstrate the remarkable performance of our method across CIFAR-10, CIFAR-100, and a 100-class ImageNet-subset.</p>
     
 
     
